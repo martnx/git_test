@@ -8,4 +8,6 @@ Enjoy the Journey :)
 
 Grit to become a Developer
 
+Test for VS Code Commit Message
+
 -Martin
